@@ -1,7 +1,7 @@
 import React, {SyntheticEvent, useState} from 'react';
 import { Container, Row, Col, Jumbotron, Card, CardBody,Button } from "reactstrap";
 import {useRouter} from "next/router";
-import "C:/Users/Admin/Downloads/nextjs-argon-dashboard-master/components/loginform/App.css"
+import "../../components/loginform/App.css"
 
 
 const Register = () => {
