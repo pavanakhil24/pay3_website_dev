@@ -85,11 +85,11 @@ function Tables() {
                           id="tooltip742438047"
                           onClick={(e) => e.preventDefault()}
                         >
-                          <img
+                          {/* <img
                             alt="..."
                             className="rounded-circle"
                             src={require("assets/img/theme/team-1-800x800.jpg")}
-                          />
+                          /> */}
                         </a>
                         <UncontrolledTooltip
                           delay={0}
@@ -235,11 +235,11 @@ function Tables() {
                           id="tooltip746418347"
                           onClick={(e) => e.preventDefault()}
                         >
-                          <img
+                          {/* <img
                             alt="..."
                             className="rounded-circle"
                             src={require("assets/img/theme/team-1-800x800.jpg")}
-                          />
+                          /> */}
                         </a>
                         <UncontrolledTooltip
                           delay={0}
@@ -383,11 +383,11 @@ function Tables() {
                           id="tooltip753056318"
                           onClick={(e) => e.preventDefault()}
                         >
-                          <img
+                          {/* <img
                             alt="..."
                             className="rounded-circle"
                             src={require("assets/img/theme/team-1-800x800.jpg")}
-                          />
+                          /> */}
                         </a>
                         <UncontrolledTooltip
                           delay={0}
@@ -533,11 +533,11 @@ function Tables() {
                           id="tooltip875258217"
                           onClick={(e) => e.preventDefault()}
                         >
-                          <img
+                          {/* <img
                             alt="..."
                             className="rounded-circle"
                             src={require("assets/img/theme/team-1-800x800.jpg")}
-                          />
+                          /> */}
                         </a>
                         <UncontrolledTooltip
                           delay={0}
@@ -683,11 +683,11 @@ function Tables() {
                           id="tooltip664029969"
                           onClick={(e) => e.preventDefault()}
                         >
-                          <img
+                          {/* <img
                             alt="..."
                             className="rounded-circle"
                             src={require("assets/img/theme/team-1-800x800.jpg")}
-                          />
+                          /> */}
                         </a>
                         <UncontrolledTooltip
                           delay={0}
@@ -912,11 +912,11 @@ function Tables() {
                           id="tooltip731399078"
                           onClick={(e) => e.preventDefault()}
                         >
-                          <img
+                          {/* <img
                             alt="..."
                             className="rounded-circle"
                             src={require("assets/img/theme/team-1-800x800.jpg")}
-                          />
+                          /> */}
                         </a>
                         <UncontrolledTooltip
                           delay={0}
@@ -1062,11 +1062,11 @@ function Tables() {
                           id="tooltip188614932"
                           onClick={(e) => e.preventDefault()}
                         >
-                          <img
+                          {/* <img
                             alt="..."
                             className="rounded-circle"
                             src={require("assets/img/theme/team-1-800x800.jpg")}
-                          />
+                          /> */}
                         </a>
                         <UncontrolledTooltip
                           delay={0}
@@ -1207,11 +1207,11 @@ function Tables() {
                           id="tooltip707904950"
                           onClick={(e) => e.preventDefault()}
                         >
-                          <img
+                          {/* <img
                             alt="..."
                             className="rounded-circle"
                             src={require("assets/img/theme/team-1-800x800.jpg")}
-                          />
+                          /> */}
                         </a>
                         <UncontrolledTooltip
                           delay={0}
@@ -1357,11 +1357,11 @@ function Tables() {
                           id="tooltip226319315"
                           onClick={(e) => e.preventDefault()}
                         >
-                          <img
+                          {/* <img
                             alt="..."
                             className="rounded-circle"
                             src={require("assets/img/theme/team-1-800x800.jpg")}
-                          />
+                          /> */}
                         </a>
                         <UncontrolledTooltip
                           delay={0}
@@ -1507,11 +1507,11 @@ function Tables() {
                           id="tooltip781594051"
                           onClick={(e) => e.preventDefault()}
                         >
-                          <img
+                          {/* <img
                             alt="..."
                             className="rounded-circle"
                             src={require("assets/img/theme/team-1-800x800.jpg")}
-                          />
+                          /> */}
                         </a>
                         <UncontrolledTooltip
                           delay={0}

@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import { Container, Row, Col, Jumbotron, Card, CardBody } from "reactstrap";
 // import LoginForm from "./components/loginform/loginForm.jsx"; 
 import LoginForm from "../../components/loginform/loginForm";
-import Facebook from "./facebooklogin";
+// import Facebook from "./facebooklogin";
 // import "bootstrap/dist/css/bootstrap.min.css";
 // import "./styles.css";
 

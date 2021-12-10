@@ -72,9 +72,9 @@ function Deposit1() {
 
 <div style={{textAlign:'initial',fontSize:'15px'}}>If you want to add funds directly through Fiat Amount
     &nbsp;
-    <Link href="/admin/transaction"> 
+    {/* <Link href="/admin/transaction"> 
             <a style={{fontSize:'15px',color:'blue'}}>Click here</a>
-    </Link>
+    </Link> */}
     </div>   
     
     {/* <form >

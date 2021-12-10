@@ -7,7 +7,7 @@ import { AvForm, AvField } from "availity-reactstrap-validation";
 import { useRouter } from 'next/router'
 import SocialLogin from "./socialsignin";
 import { Row,Col } from "reactstrap";
-import Facebook from "../../pages/admin/facebooklogin";
+// import Facebook from "../../pages/admin/facebooklogin";
 // import { useState } from "react";
 
 function Tabs() {

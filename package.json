@@ -24,7 +24,6 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.15.2",
-    "@transak/transak-sdk": "^1.0.31",
     "@zeit/next-css": "1.0.1",
     "@zeit/next-sass": "1.0.1",
     "availity-reactstrap-validation": "^2.7.1",
